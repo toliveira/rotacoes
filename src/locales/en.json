@@ -1,0 +1,223 @@
+{
+  "menu": {
+    "cars": "Vehicles",
+    "partners": "Partners",
+    "dashboard": "Dashboard",
+    "clients": "Clients"
+  },
+  "header": {
+    "en": "English",
+    "pt": "Português",
+    "logout": "Logout",
+    "language": "Language"
+  },
+
+  "clients": {
+    "title": "Clients",
+    "new": "New Client",
+    "edit": "Edit Client",
+    "subtitle_new": "Register a new client",
+    "subtitle_edit": "Update client details",
+    "details": "Client Details",
+    "contact_info": "Contact Info",
+    "create_first": "Create the first client",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "nif": "NIF",
+    "address": "Address",
+    "notes": "Notes",
+    "files": "Files",
+    "purchases": "Purchased Vehicles",
+    "noPurchases": "No vehicles purchased yet.",
+    "addFile": "Add File Link"
+  },
+  "partners": {
+    "title": "Partners",
+    "title_new": "Add Partner",
+    "title_edit": "Edit Partner",
+    "subtitle_new": "Create a new partner entry",
+    "subtitle_edit": "Update partner information",
+    "details": "Partner Details",
+    "fields": {
+      "name": "Name",
+      "logo": "Logo",
+      "website": "Website",
+      "description": "Description"
+    },
+    "placeholders": {
+      "enter_name": "Enter partner name",
+      "enter_website": "https://...",
+      "enter_description": "Enter partner description..."
+    }
+  },
+  "cars": {
+    "title": "Vehicles",
+    "title_new": "Add Car",
+    "title_edit": "Edit Car",
+    "subtitle_new": "Create a new vehicle entry",
+    "subtitle_edit": "Update vehicle information",
+    "details": "Vehicle Details",
+    "specs": "Specifications",
+    "images": "Images",
+    "colors_equipment": "Colors & Equipment",
+    "sales_status": "Sales Status",
+    "fields": {
+      "brand": "Brand",
+      "model": "Model",
+      "year": "Year",
+      "condition": "Condition",
+      "price": "Price (Selling)",
+      "purchase_price": "Purchase Price (Cost)",
+      "km": "Kilometers",
+      "motor_power": "Horsepower (hp)",
+      "engine_size": "Engine Displacement (cc)",
+      "fuel": "Fuel",
+      "vehicle_type": "Vehicle Type",
+      "body_type": "Body Type",
+      "transmission": "Transmission",
+      "traction": "Traction",
+      "doors": "Doors",
+      "seats": "Seats",
+      "color_exterior": "Exterior Color",
+      "color_interior": "Interior Color",
+      "equipment": "Equipment",
+      "description": "Description",
+      "status": "Status",
+      "sold_to": "Sold To (Client)",
+      "sold_price": "Sold Price",
+      "sold_date": "Sold Date"
+    },
+    "placeholders": {
+      "select_brand": "Select brand...",
+      "select_model": "Select model...",
+      "select_condition": "Select condition...",
+      "select_type": "Select type...",
+      "select_body": "Select body...",
+      "select_transmission": "Select transmission...",
+      "select_traction": "Select traction...",
+      "select_doors": "Select doors...",
+      "select_seats": "Select seats...",
+      "select_color": "Select color...",
+      "select_equipment": "Select equipment...",
+      "select_fuel": "Select fuel...",
+      "select_status": "Select status",
+      "select_client": "Select client"
+    },
+    "messages": {
+      "no_model": "No model found.",
+      "select_brand_first": "Select a brand first.",
+      "saved": "Car saved successfully",
+      "updated": "Car updated successfully",
+      "upload_success": "Images uploaded successfully",
+      "upload_error": "Error uploading images",
+      "upload_fail_file": "Failed to upload"
+    }
+  },
+  "common": {
+    "welcome": "Welcome",
+    "save": "Save",
+    "saving": "Saving...",
+    "upload": "Upload",
+    "images_count": "images uploaded.",
+    "loading": "Loading...",
+    "no_results": "No results found.",
+    "confirm_delete": "Are you sure?",
+    "success_deleted": "Deleted successfully",
+    "actions": "Actions",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "availableCars": "Available Cars",
+    "totalSales": "Total Sales",
+    "totalSpends": "Total Spends",
+    "news": "News Feed"
+  },
+  "car_attributes": {
+    "vehicle_types": {
+      "passenger_light": "Light Passenger",
+      "goods_light": "Light Goods",
+      "passenger_heavy": "Heavy Passenger",
+      "goods_heavy": "Heavy Goods",
+      "motorcycle": "Motorcycle",
+      "moped": "Moped",
+      "tractor": "Tractor",
+      "special": "Special"
+    },
+    "body_types": {
+      "hatchback": "Hatchback",
+      "sedan": "Sedan",
+      "station_wagon": "Station Wagon",
+      "suv_crossover": "SUV/Crossover",
+      "mpv": "MPV",
+      "coupe": "Coupe",
+      "convertible": "Convertible",
+      "pickup": "Pick-Up",
+      "van": "Van"
+    },
+    "fuel_types": {
+      "petrol": "Petrol",
+      "diesel": "Diesel",
+      "electric": "Electric",
+      "hybrid_petrol": "Hybrid (Petrol)",
+      "hybrid_plugin": "Plug-in Hybrid",
+      "lpg": "LPG",
+      "cng": "CNG",
+      "hydrogen": "Hydrogen"
+    },
+    "transmission_types": {
+      "manual": "Manual",
+      "automatic": "Automatic",
+      "semi_automatic": "Semi-automatic"
+    },
+    "traction_types": {
+      "fwd": "Front Wheel Drive",
+      "rwd": "Rear Wheel Drive",
+      "awd": "All Wheel Drive"
+    },
+    "vehicle_conditions": {
+      "new": "New",
+      "used": "Used",
+      "semi_new": "Semi-New",
+      "classic": "Classic"
+    },
+    "colors": {
+      "white": "White",
+      "black": "Black",
+      "gray": "Gray",
+      "silver": "Silver",
+      "blue": "Blue",
+      "red": "Red",
+      "green": "Green",
+      "yellow": "Yellow",
+      "orange": "Orange",
+      "beige": "Bege",
+      "brown": "Brown",
+      "other": "Other"
+    },
+    "equipment": {
+      "ac": "Air Conditioning",
+      "gps": "GPS",
+      "parking_sensors": "Parking Sensors",
+      "rear_camera": "Rear Camera",
+      "sunroof": "Sunroof",
+      "leather_seats": "Leather Seats",
+      "heated_seats": "Heated Seats",
+      "alloy_wheels": "Alloy Wheels",
+      "fog_lights": "Fog Lights",
+      "bluetooth": "Bluetooth",
+      "cruise_control": "Cruise Control",
+      "onboard_computer": "Onboard Computer",
+      "abs": "ABS",
+      "esp": "ESP",
+      "airbags": "Airbags"
+    },
+    "sales_status": {
+      "available": "Available",
+      "reserved": "Reserved",
+      "sold": "Sold"
+    }
+  }
+}

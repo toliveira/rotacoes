@@ -1,0 +1,759 @@
+{
+  "marcas_e_modelos": {
+    "Alfa Romeo": [
+      "147",
+      "156",
+      "159",
+      "166",
+      "Giulietta",
+      "Giulia",
+      "Stelvio",
+      "Mito",
+      "GT",
+      "Brera",
+      "Spider",
+      "Tonale",
+      "Giulia Quadrifoglio",
+      "Stelvio Quadrifoglio"
+    ],
+    "Abarth": [
+      "500",
+      "595",
+      "695"
+    ],
+    "Aston Martin": [
+      "DB9",
+      "DB11",
+      "DBS",
+      "Vantage",
+      "Vanquish",
+      "Rapide",
+      "DBX"
+    ],
+    "Audi": [
+      "A1",
+      "A2",
+      "A3",
+      "A3 Sportback",
+      "A3 Sedan",
+      "A4",
+      "A4 Avant",
+      "A5",
+      "A5 Sportback",
+      "A6",
+      "A6 Avant",
+      "A7",
+      "A8",
+      "Q2",
+      "Q3",
+      "Q3 Sportback",
+      "Q4 e-tron",
+      "Q5",
+      "Q5 Sportback",
+      "Q7",
+      "Q8",
+      "TT",
+      "R8",
+      "e-tron",
+      "e-tron GT",
+      "S1",
+      "S3",
+      "S4",
+      "S5",
+      "SQ5",
+      "RS3",
+      "RS4",
+      "RS5",
+      "RS6",
+      "RS7",
+      "RS Q8"
+    ],
+    "Bentley": [
+      "Continental GT",
+      "Bentayga",
+      "Flying Spur",
+      "Mulsanne",
+      "Arnage"
+    ],
+    "BMW": [
+      "Serie 1",
+      "Serie 2",
+      "Serie 2 Active Tourer",
+      "Serie 3",
+      "Serie 4",
+      "Serie 4 Gran Coupe",
+      "Serie 5",
+      "Serie 6",
+      "Serie 7",
+      "Serie 8",
+      "i3",
+      "i4",
+      "iX",
+      "iX1",
+      "iX3",
+      "X1",
+      "X2",
+      "X3",
+      "X3 M",
+      "X4",
+      "X4 M",
+      "X5",
+      "X5 M",
+      "X6",
+      "X6 M",
+      "X7",
+      "Z3",
+      "Z4",
+      "M2",
+      "M3",
+      "M4",
+      "M5",
+      "M8",
+      "Gran Turismo"
+    ],
+    "Brilliance": [
+      "H530",
+      "V3",
+      "V5"
+    ],
+    "Buick": [
+      "Regal",
+      "Enclave",
+      "Encore"
+    ],
+    "Cadillac": [
+      "CTS",
+      "SRX",
+      "Escalade"
+    ],
+    "Chevrolet": [
+      "Spark",
+      "Aveo",
+      "Matiz",
+      "Cruze",
+      "Captiva",
+      "Orlando",
+      "Trax",
+      "Camaro",
+      "Corvette",
+      "Malibu"
+    ],
+    "Chery": [
+      "Tiggo 3",
+      "Tiggo 5",
+      "Tiggo 7",
+      "Arrizo 5",
+      "Tiggo 4"
+    ],
+    "Chrysler": [
+      "300C",
+      "Voyager",
+      "PT Cruiser"
+    ],
+    "Citroën": [
+      "Ami",
+      "C1",
+      "C2",
+      "C3",
+      "C3 Aircross",
+      "C3 Picasso",
+      "C4",
+      "C4 Cactus",
+      "C4 Picasso",
+      "C4 Spacetourer",
+      "C5",
+      "C5 Aircross",
+      "C6",
+      "C8",
+      "Berlingo",
+      "Nemo",
+      "Saxo",
+      "Xsara",
+      "Xsara Picasso"
+    ],
+    "Dacia": [
+      "Sandero",
+      "Sandero Stepway",
+      "Logan",
+      "Duster",
+      "Lodgy",
+      "Dokker",
+      "Jogger"
+    ],
+    "Daewoo": [
+      "Matiz",
+      "Lanos",
+      "Nubira",
+      "Tacuma",
+      "Kalos"
+    ],
+    "Daihatsu": [
+      "Charade",
+      "Sirion",
+      "Terios",
+      "Yrv",
+      "Copen"
+    ],
+    "Dodge": [
+      "Caliber",
+      "Journey",
+      "Nitro",
+      "Charger",
+      "Challenger",
+      "Durango"
+    ],
+    "DS Automobiles": [
+      "DS3",
+      "DS3 Crossback",
+      "DS4",
+      "DS5",
+      "DS7 Crossback",
+      "DS9"
+    ],
+    "Fiat": [
+      "500",
+      "500X",
+      "500L",
+      "Panda",
+      "Punto",
+      "Punto Evo",
+      "Tipo",
+      "Bravo",
+      "Bravo",
+      "Croma",
+      "Panda 4x4",
+      "Multipla",
+      "Ulysse",
+      "Doblo",
+      "Fiorino"
+    ],
+    "Ford": [
+      "Ka",
+      "Ka+",
+      "Fiesta",
+      "Puma",
+      "Focus",
+      "Mondeo",
+      "C-Max",
+      "S-Max",
+      "Galaxy",
+      "Kuga",
+      "EcoSport",
+      "Puma",
+      "Tourneo Connect",
+      "Transit Connect",
+      "Tourneo Custom",
+      "Transit",
+      "Edge",
+      "Mustang",
+      "Ranger"
+    ],
+    "Geely": [
+      "Emgrand",
+      "VG",
+      "Coolray",
+      "Geometry A",
+      "Geely VB"
+    ],
+    "Genesis": [
+      "G70",
+      "G80",
+      "GV70",
+      "GV80"
+    ],
+    "Great Wall / Haval": [
+      "H2",
+      "H6",
+      "H9",
+      "Tiggo (under GWM/Chery)"
+    ],
+    "Honda": [
+      "Civic",
+      "Accord",
+      "Jazz",
+      "Jazz Hybrid",
+      "CR-V",
+      "HR-V",
+      "Fit",
+      "FR-V",
+      "CR-Z",
+      "Insight"
+    ],
+    "Hyundai": [
+      "i10",
+      "i20",
+      "i30",
+      "i30 Fastback",
+      "i40",
+      "Bayon",
+      "Kona",
+      "Kona Electric",
+      "Tucson",
+      "Santa Fe",
+      "IONIQ",
+      "IONIQ 5",
+      "IONIQ 6",
+      "Getz",
+      "Accent",
+      "Terracan",
+      "ix20"
+    ],
+    "Infiniti": [
+      "Q30",
+      "Q50",
+      "Q60",
+      "QX30",
+      "QX50"
+    ],
+    "Isuzu": [
+      "D-Max",
+      "Rodeo",
+      "Trooper"
+    ],
+    "Jakarta": [],
+    "Jaguar": [
+      "XE",
+      "XF",
+      "XJ",
+      "F-Type",
+      "F-Pace",
+      "E-Pace",
+      "I-Pace",
+      "S-Type",
+      "XK"
+    ],
+    "Jeep": [
+      "Renegade",
+      "Compass",
+      "Cherokee",
+      "Grand Cherokee",
+      "Wrangler",
+      "Patriot",
+      "Commander",
+      "Cherokee KL"
+    ],
+    "Kia": [
+      "Picanto",
+      "Rio",
+      "Ceed",
+      "Ceed SW",
+      "ProCeed",
+      "Stonic",
+      "Sportage",
+      "Sorento",
+      "Niro",
+      "Niro PHEV",
+      "Soul",
+      "EV6",
+      "Optima/K5"
+    ],
+    "King Long": [],
+    "Koenigsegg": [
+      "Agera",
+      "Regera",
+      "Jesko"
+    ],
+    "Lamborghini": [
+      "Huracan",
+      "Aventador",
+      "Urus",
+      "Gallardo",
+      "Countach LPI 800-4"
+    ],
+    "Lancia": [
+      "Ypsilon",
+      "Delta",
+      "Phedra",
+      "Musa",
+      "Lybra"
+    ],
+    "Land Rover": [
+      "Defender",
+      "Discovery",
+      "Discovery Sport",
+      "Range Rover Evoque",
+      "Range Rover Velar",
+      "Range Rover",
+      "Range Rover Sport",
+      "Freelander"
+    ],
+    "Lexus": [
+      "CT",
+      "IS",
+      "ES",
+      "GS",
+      "LS",
+      "NX",
+      "RX",
+      "UX",
+      "LC",
+      "RC",
+      "GX",
+      "LX"
+    ],
+    "Lotus": [
+      "Elise",
+      "Exige",
+      "Evora",
+      "Emira"
+    ],
+    "Maserati": [
+      "Ghibli",
+      "Quattroporte",
+      "Levante",
+      "GranTurismo",
+      "GranCabrio"
+    ],
+    "Mahindra": [
+      "Pik Up",
+      "XUV500"
+    ],
+    "Mazda": [
+      "Mazda 2",
+      "Mazda 3",
+      "Mazda 5",
+      "Mazda 6",
+      "MX-5",
+      "CX-3",
+      "CX-30",
+      "CX-5",
+      "CX-60",
+      "CX-9"
+    ],
+    "McLaren": [
+      "570S",
+      "650S",
+      "720S",
+      "GT"
+    ],
+    "Mercedes-Benz": [
+      "Classe A",
+      "Classe A Sedan",
+      "Classe B",
+      "Classe C",
+      "Classe C Coupé",
+      "Classe E",
+      "Classe E Estate",
+      "Classe S",
+      "CLA",
+      "CLS",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLE",
+      "GLS",
+      "GLK",
+      "SL",
+      "SLK",
+      "SLC",
+      "G-Class",
+      "AMG GT",
+      "EQA",
+      "EQB",
+      "EQC",
+      "EQS",
+      "EQV"
+    ],
+    "MG": [
+      "MG3",
+      "MG ZS",
+      "MG HS",
+      "MG4",
+      "MG5 EV",
+      "MG Marvel R"
+    ],
+    "MINI": [
+      "One",
+      "Cooper",
+      "Cooper S",
+      "John Cooper Works",
+      "Clubman",
+      "Countryman",
+      "Convertible"
+    ],
+    "Mitsubishi": [
+      "Space Star",
+      "Colt",
+      "Lancer",
+      "ASX",
+      "Eclipse Cross",
+      "Outlander",
+      "Pajero",
+      "L200"
+    ],
+    "Morgan": [
+      "Plus 4",
+      "4/4",
+      "Roadster"
+    ],
+    "Nissan": [
+      "Micra",
+      "Note",
+      "Juke",
+      "Qashqai",
+      "X-Trail",
+      "Leaf",
+      "GT-R",
+      "Primera",
+      "Almera",
+      "350Z",
+      "370Z"
+    ],
+    "Opel": [
+      "Adam",
+      "Corsa",
+      "Astra",
+      "Insignia",
+      "Crossland",
+      "Mokka",
+      "Grandland",
+      "Zafira",
+      "Combo",
+      "Vivaro",
+      "Movano"
+    ],
+    "Peugeot": [
+      "108",
+      "208",
+      "308",
+      "508",
+      "2008",
+      "3008",
+      "5008",
+      "Rifter",
+      "Partner",
+      "Boxer"
+    ],
+    "Porsche": [
+      "911",
+      "Boxster",
+      "Cayman",
+      "Panamera",
+      "Cayenne",
+      "Macan",
+      "Taycan"
+    ],
+    "Renault": [
+      "Twingo",
+      "Clio",
+      "Mégane",
+      "Talisman",
+      "Captur",
+      "Kadjar",
+      "Austral",
+      "Espace",
+      "Scénic",
+      "Zoe",
+      "Twizy",
+      "Kangoo",
+      "Trafic",
+      "Master"
+    ],
+    "Rolls-Royce": [
+      "Phantom",
+      "Ghost",
+      "Wraith",
+      "Dawn",
+      "Cullinan"
+    ],
+    "Seat": [
+      "Mii",
+      "Ibiza",
+      "Leon",
+      "Arona",
+      "Ateca",
+      "Tarraco",
+      "Alhambra"
+    ],
+    "Skoda": [
+      "Citigo",
+      "Fabia",
+      "Scala",
+      "Octavia",
+      "Superb",
+      "Kamiq",
+      "Karoq",
+      "Kodiaq",
+      "Enyaq"
+    ],
+    "Smart": [
+      "Fortwo",
+      "Forfour"
+    ],
+    "SsangYong": [
+      "Tivoli",
+      "Korando",
+      "Rexton",
+      "Musso"
+    ],
+    "Subaru": [
+      "Impreza",
+      "Legacy",
+      "Outback",
+      "Forester",
+      "XV",
+      "BRZ"
+    ],
+    "Suzuki": [
+      "Alto",
+      "Swift",
+      "Ignis",
+      "Baleno",
+      "S-Cross",
+      "Vitara",
+      "Jimny"
+    ],
+    "Tesla": [
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y"
+    ],
+    "Toyota": [
+      "Aygo",
+      "Yaris",
+      "Corolla",
+      "Camry",
+      "C-HR",
+      "RAV4",
+      "Land Cruiser",
+      "Prius",
+      "Mirai",
+      "Hilux"
+    ],
+    "Volkswagen": [
+      "Up!",
+      "Polo",
+      "Golf",
+      "Passat",
+      "Arteon",
+      "T-Cross",
+      "T-Roc",
+      "Tiguan",
+      "Touareg",
+      "Sharan",
+      "Touran",
+      "ID.3",
+      "ID.4",
+      "ID.5",
+      "ID. Buzz"
+    ],
+    "Volvo": [
+      "S60",
+      "S90",
+      "V60",
+      "V90",
+      "XC40",
+      "XC60",
+      "XC90",
+      "C40",
+      "EX30"
+    ]
+  },
+  "tipos_de_veiculo": [
+    "passenger_light",
+    "goods_light",
+    "passenger_heavy",
+    "goods_heavy",
+    "motorcycle",
+    "moped",
+    "tractor",
+    "special"
+  ],
+  "tipos_de_carrocaria": [
+    "hatchback",
+    "sedan",
+    "station_wagon",
+    "suv_crossover",
+    "mpv",
+    "coupe",
+    "convertible",
+    "pickup",
+    "van"
+  ],
+  "tipos_de_combustivel": [
+    "petrol",
+    "diesel",
+    "electric",
+    "hybrid_petrol",
+    "hybrid_plugin",
+    "lpg",
+    "cng",
+    "hydrogen"
+  ],
+  "tipos_de_transmissao": [
+    "manual",
+    "automatic",
+    "semi_automatic"
+  ],
+  "tipos_de_tracao": [
+    "fwd",
+    "rwd",
+    "awd"
+  ],
+  "estado_do_veiculo": [
+    "new",
+    "used",
+    "semi_new",
+    "classic"
+  ],
+  "norma_ambiental": [
+    "euro_6d",
+    "euro_6c",
+    "euro_6b",
+    "euro_5",
+    "euro_4",
+    "euro_3",
+    "euro_2",
+    "euro_1"
+  ],
+  "cores_exteriores": [
+    "white",
+    "black",
+    "gray",
+    "silver",
+    "blue",
+    "red",
+    "green",
+    "yellow",
+    "orange",
+    "beige",
+    "other"
+  ],
+  "cores_interiores": [
+    "black",
+    "gray",
+    "beige",
+    "white",
+    "brown",
+    "other"
+  ],
+  "numero_de_portas": [
+    "2_3",
+    "4_5"
+  ],
+  "lotacao_de_lugares": [
+    "2",
+    "4",
+    "5",
+    "7",
+    "9"
+  ],
+  "equipamento_essencial": [
+    "ac",
+    "gps",
+    "parking_sensors",
+    "rear_camera",
+    "sunroof",
+    "leather_seats",
+    "heated_seats",
+    "alloy_wheels",
+    "fog_lights",
+    "bluetooth",
+    "cruise_control",
+    "onboard_computer",
+    "abs",
+    "esp",
+    "airbags"
+  ]
+}

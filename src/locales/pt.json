@@ -1,0 +1,236 @@
+{
+  "menu": {
+    "cars": "Veículos",
+    "partners": "Parceiros",
+    "dashboard": "Painel",
+    "clients": "Clientes"
+  },
+  "header": {
+    "en": "English",
+    "pt": "Português",
+    "logout": "Sair",
+    "language": "Idioma"
+  },
+  "common": {
+    "welcome": "Bem-vindo",
+    "save": "Guardar",
+    "saving": "A guardar...",
+    "upload": "Carregar",
+    "images_count": "imagens carregadas.",
+    "loading": "A carregar...",
+    "no_results": "Sem resultados encontrados.",
+    "confirm_delete": "Tem a certeza?",
+    "success_deleted": "Eliminado com sucesso",
+    "actions": "Ações",
+    "edit": "Editar",
+    "delete": "Apagar"
+  },
+  "clients": {
+    "title": "Clientes",
+    "new": "Novo Cliente",
+    "edit": "Editar Cliente",
+    "subtitle_new": "Registar um novo cliente",
+    "subtitle_edit": "Atualizar dados do cliente",
+    "details": "Detalhes do Cliente",
+    "contact_info": "Informação de Contacto",
+    "create_first": "Criar o primeiro cliente",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Telefone",
+    "nif": "NIF",
+    "address": "Morada",
+    "notes": "Notas",
+    "files": "Ficheiros",
+    "purchases": "Veículos Comprados",
+    "noPurchases": "Nenhum veículo comprado ainda.",
+    "addFile": "Adicionar Link de Ficheiro"
+  },
+  "partners": {
+    "title": "Parceiros",
+    "title_new": "Adicionar Parceiro",
+    "title_edit": "Editar Parceiro",
+    "subtitle_new": "Criar um novo registo de parceiro",
+    "subtitle_edit": "Atualizar informações do parceiro",
+    "details": "Detalhes do Parceiro",
+    "fields": {
+      "name": "Nome",
+      "logo": "Logótipo",
+      "website": "Website",
+      "description": "Descrição"
+    },
+    "placeholders": {
+      "enter_name": "Introduza o nome do parceiro",
+      "enter_website": "https://...",
+      "enter_description": "Introduza a descrição do parceiro..."
+    }
+  },
+  "dashboard": {
+    "title": "Painel",
+    "availableCars": "Carros Disponíveis",
+    "totalSales": "Vendas Totais",
+    "totalSpends": "Despesas Totais",
+    "news": "Feed de Notícias"
+  },
+  "expenses": {
+    "title": "Despesas",
+    "title_new": "Nova Despesa",
+    "title_edit": "Editar Despesa",
+    "subtitle_new": "Registar uma nova despesa",
+    "subtitle_edit": "Atualizar despesa",
+    "fields": {
+      "title": "Título",
+      "amount": "Valor",
+      "date": "Data",
+      "category": "Categoria",
+      "description": "Descrição"
+    }
+  },
+  "car_attributes": {
+    "vehicle_types": {
+      "passenger_light": "Ligeiro de Passageiros",
+      "goods_light": "Ligeiro de Mercadorias",
+      "passenger_heavy": "Pesado de Passageiros",
+      "goods_heavy": "Pesado de Mercadorias",
+      "motorcycle": "Motociclo",
+      "moped": "Ciclomotor",
+      "tractor": "Trator",
+      "special": "Especial"
+    },
+    "body_types": {
+      "hatchback": "Hatchback",
+      "sedan": "Sedan/Berlina",
+      "station_wagon": "Carrinha",
+      "suv_crossover": "SUV/Crossover",
+      "mpv": "Monovolume",
+      "coupe": "Coupé",
+      "convertible": "Descapotável",
+      "pickup": "Pick-Up",
+      "van": "Furgão"
+    },
+    "fuel_types": {
+      "petrol": "Gasolina",
+      "diesel": "Gasóleo",
+      "electric": "Elétrico",
+      "hybrid_petrol": "Híbrido (Gasolina)",
+      "hybrid_plugin": "Híbrido Plug-in",
+      "lpg": "GPL",
+      "cng": "GNC",
+      "hydrogen": "Hidrogénio"
+    },
+    "transmission_types": {
+      "manual": "Manual",
+      "automatic": "Automática",
+      "semi_automatic": "Semiautomática"
+    },
+    "traction_types": {
+      "fwd": "Tração Dianteira",
+      "rwd": "Tração Traseira",
+      "awd": "Tração Integral"
+    },
+    "vehicle_conditions": {
+      "new": "Novo",
+      "used": "Usado",
+      "semi_new": "Semi-Novo",
+      "classic": "Clássico"
+    },
+    "colors": {
+      "white": "Branco",
+      "black": "Preto",
+      "gray": "Cinzento",
+      "silver": "Prata",
+      "blue": "Azul",
+      "red": "Vermelho",
+      "green": "Verde",
+      "yellow": "Amarelo",
+      "orange": "Laranja",
+      "beige": "Bege",
+      "brown": "Castanho",
+      "other": "Outra"
+    },
+    "equipment": {
+      "ac": "Ar Condicionado",
+      "gps": "GPS",
+      "parking_sensors": "Sensores de Estacionamento",
+      "rear_camera": "Câmara de Marcha-Atrás",
+      "sunroof": "Teto de Abrir",
+      "leather_seats": "Bancos em Pele",
+      "heated_seats": "Bancos Aquecidos",
+      "alloy_wheels": "Jantes de Liga Leve",
+      "fog_lights": "Faróis de Nevoeiro",
+      "bluetooth": "Bluetooth",
+      "cruise_control": "Cruise Control",
+      "onboard_computer": "Computador de Bordo",
+      "abs": "ABS",
+      "esp": "ESP",
+      "airbags": "Airbags"
+    },
+    "sales_status": {
+      "available": "Disponível",
+      "reserved": "Reservado",
+      "sold": "Vendido"
+    }
+  },
+  "cars": {
+    "title": "Veículos",
+    "title_new": "Adicionar Carro",
+    "title_edit": "Editar Carro",
+    "subtitle_new": "Registar um novo veículo",
+    "subtitle_edit": "Atualizar informações do veículo",
+    "details": "Detalhes do Veículo",
+    "specs": "Especificações",
+    "images": "Imagens",
+    "colors_equipment": "Cores e Equipamento",
+    "sales_status": "Estado de Venda",
+    "fields": {
+      "brand": "Marca",
+      "model": "Modelo",
+      "year": "Ano",
+      "condition": "Condição",
+      "price": "Preço (Venda)",
+      "purchase_price": "Preço de Compra (Custo)",
+      "km": "Quilómetros",
+      "motor_power": "Potência do Motor (cv)",
+      "engine_size": "Cilindrada (cm³)",
+      "fuel": "Combustível",
+      "vehicle_type": "Tipo de Veículo",
+      "body_type": "Tipo de Carroçaria",
+      "transmission": "Transmissão",
+      "traction": "Tração",
+      "doors": "Portas",
+      "seats": "Lugares",
+      "color_exterior": "Cor Exterior",
+      "color_interior": "Cor Interior",
+      "equipment": "Equipamento",
+      "description": "Descrição",
+      "status": "Estado",
+      "sold_to": "Vendido a (Cliente)",
+      "sold_price": "Preço de Venda",
+      "sold_date": "Data de Venda"
+    },
+    "placeholders": {
+      "select_brand": "Selecione a marca...",
+      "select_model": "Selecione o modelo...",
+      "select_condition": "Selecione a condição...",
+      "select_type": "Selecione o tipo...",
+      "select_body": "Selecione a carroçaria...",
+      "select_transmission": "Selecione a transmissão...",
+      "select_traction": "Selecione a tração...",
+      "select_doors": "Selecione as portas...",
+      "select_seats": "Selecione os lugares...",
+      "select_color": "Selecione a cor...",
+      "select_equipment": "Selecione o equipamento...",
+      "select_fuel": "Selecione o combustível...",
+      "select_status": "Selecione o estado",
+      "select_client": "Selecione o cliente"
+    },
+    "messages": {
+      "no_model": "Nenhum modelo encontrado.",
+      "select_brand_first": "Selecione uma marca primeiro.",
+      "saved": "Carro guardado com sucesso",
+      "updated": "Carro atualizado com sucesso",
+      "upload_success": "Imagens carregadas com sucesso",
+      "upload_error": "Erro ao carregar imagens",
+      "upload_fail_file": "Falha ao carregar"
+    }
+  }
+}
